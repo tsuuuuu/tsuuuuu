@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tsuuuuu, better know as Arlindo.
+- 👋 Hi, I’m Arlindo, better known as Tsu.
 - 👀 I’m interested in technology and gaming.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently working with software quality assurance.
 - 💞️ I’m looking to collaborate on any project to learn more and grow!
 - 📫 How to reach me? arlindo.hayashi@gmail.com
 
